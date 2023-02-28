@@ -1,0 +1,27 @@
+{
+  "name": "goit-hw-node-01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index",
+    "dev": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MicRedd1985/goit-hw-node-01.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MicRedd1985/goit-hw-node-01/issues"
+  },
+  "homepage": "https://github.com/MicRedd1985/goit-hw-node-01#readme",
+  "dependencies": {
+    "commander": "^10.0.0",
+    "nodemon": "^2.0.20",
+    "uuid": "^9.0.0"
+  }
+}
